@@ -1,0 +1,6 @@
+{
+    "sass.format.enabled": false,
+    "editor.defaultFormatter": null,
+    "editor.formatOnSave": false,
+    "reactSnippets.settings.prettierEnabled": true
+}
